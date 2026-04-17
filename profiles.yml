@@ -1,0 +1,13 @@
+retail_supply_chain_project:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: it12523.ap-southeast-2
+      user: ROHITBIRAJDAR
+      password: RohitBirajdar@123
+      role: ACCOUNTADMIN
+      database: RETAIL_SUPPLY_CHAIN_DB
+      warehouse: COMPUTE_WH
+      schema: RAW
+      threads: 8

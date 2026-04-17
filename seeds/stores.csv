@@ -1,0 +1,201 @@
+store_id,store_name,city,state,country,open_date
+1,Price-Armstrong,Darrelltown,Vermont,Mongolia,2012-04-12
+2,Hawkins Inc,Riverabury,Minnesota,Albania,1992-08-30
+3,Walker-Hernandez,North Tyler,Alaska,Samoa,1977-07-18
+4,Cook PLC,Browningmouth,Connecticut,Kuwait,2013-08-02
+5,"Adams, Sheppard and Sanchez",Alexberg,Maine,Bolivia,2006-03-13
+6,"Bradshaw, Young and Hunt",Pamelaville,Oklahoma,Taiwan,2020-01-03
+7,"Hardin, Lewis and Meyer",Port Daniel,Wisconsin,Honduras,2009-07-05
+8,Rivas and Sons,Jessicaburgh,New Jersey,Cook Islands,1997-05-11
+9,Stewart-Zhang,Michellestad,Arizona,Singapore,1991-09-03
+10,Hernandez PLC,Leetown,Wisconsin,Montenegro,2014-09-02
+11,Herrera and Sons,West Timothy,Michigan,Bangladesh,1986-01-29
+12,Ortega-Kelley,North Marybury,Maine,Sri Lanka,1974-12-27
+13,Wood-Collins,Gordonbury,North Carolina,Haiti,2017-10-13
+14,Davis PLC,West Mark,Virginia,Cyprus,2014-09-29
+15,Gallagher-Brown,Arieltown,New Mexico,Fiji,2005-06-10
+16,Mullins Ltd,Charlesland,Iowa,Venezuela,2006-02-15
+17,Davis and Sons,East Laura,Illinois,Jordan,1970-06-19
+18,Graham Ltd,Port Jason,South Carolina,Slovenia,2024-10-15
+19,Joyce PLC,Vincentland,Montana,Iceland,1978-02-09
+20,Porter LLC,Hallton,Wisconsin,Singapore,2025-12-09
+21,Moore-Waters,Jimmyton,Delaware,Central African Republic,1971-10-15
+22,Brown-Gibson,Harrisville,Minnesota,Tunisia,2018-05-01
+23,Williams-Terry,East Williamborough,Hawaii,Denmark,1995-12-05
+24,Owens-Burch,South Garyhaven,Ohio,Korea,2025-10-26
+25,Barnes-Evans,Lake Georgechester,Idaho,Turkey,1994-05-26
+26,Flynn Ltd,Zacharychester,South Dakota,Japan,1977-06-06
+27,Edwards Ltd,Marshville,Minnesota,Algeria,2000-01-06
+28,Rush Group,Velazquezbury,Georgia,United States of America,1995-08-27
+29,"Brown, Hernandez and Ramirez",South Leonardshire,Texas,French Southern Territories,2004-09-28
+30,"Newton, Moreno and Perkins",West John,Rhode Island,Niue,2019-02-25
+31,"Young, Garrett and Johnson",Dianafort,Maryland,Serbia,1996-11-12
+32,Williams-Cisneros,Calderonville,Wyoming,Dominica,1982-04-17
+33,Jones Group,Thomastown,Rhode Island,Togo,1984-01-09
+34,"Miranda, Henderson and Allen",Lake Aprilshire,Connecticut,Austria,2013-05-12
+35,White Group,South Melaniebury,Maryland,Ghana,1991-12-10
+36,Lozano-Figueroa,Hernandezside,Indiana,Nicaragua,1993-05-15
+37,"Davis, Smith and Woods",New Christopher,Arizona,Mali,1982-06-08
+38,Bolton-Sanchez,North Jessica,Wyoming,Fiji,1988-03-07
+39,Coleman LLC,Richardsonland,Wisconsin,Belize,2003-11-04
+40,"Francis, Walter and Pennington",West Michael,Utah,Equatorial Guinea,2024-05-30
+41,Sullivan-Compton,West Ambermouth,Alaska,Canada,2012-01-09
+42,Lindsey PLC,Michaelmouth,Alaska,Finland,2014-07-28
+43,"Ramsey, Rodriguez and Stephens",Vincentport,Nevada,Palau,2014-09-14
+44,"Freeman, Salas and Garcia",Danaville,Delaware,Aruba,2001-06-30
+45,Ritter-Andrews,South Mary,Wyoming,Albania,2014-06-04
+46,"Brown, Leon and Clark",North Katrinaport,Georgia,India,1973-06-17
+47,Gonzalez Group,Lake Manuel,Alaska,Pakistan,1983-10-03
+48,"Jones, Payne and Robinson",Williamtown,Hawaii,Saint Lucia,1974-08-03
+49,"Wright, Banks and Jones",West Joshua,Oklahoma,Georgia,2018-09-05
+50,Perry Group,Blakeport,Delaware,Sweden,1988-05-11
+51,"Roberts, West and Romero",Jacquelinefort,Tennessee,Burkina Faso,1990-08-23
+52,Gutierrez PLC,Cindyburgh,Ohio,Reunion,1972-09-21
+53,Hunt-Jordan,Zunigaborough,North Dakota,Zambia,2024-12-09
+54,"Fleming, Murphy and Davis",Natalieburgh,Missouri,Kiribati,1971-04-30
+55,"Rodriguez, Mitchell and Norman",Kingtown,Michigan,Russian Federation,2022-09-23
+56,"Wilson, Garcia and Mullins",Everettburgh,Washington,Cocos (Keeling) Islands,2024-07-16
+57,Thompson Group,Josephburgh,Wyoming,Cambodia,2020-11-05
+58,"Owens, Ellis and Herman",Lake Stevenport,Idaho,Belarus,2009-01-15
+59,"Obrien, Mendoza and Dawson",Leeton,New Hampshire,Lithuania,2012-10-27
+60,Bishop and Sons,Lake Georgestad,Maryland,Burundi,1978-09-16
+61,Hess LLC,Lake Christina,New Hampshire,Central African Republic,1980-11-09
+62,Lowe-Johnson,East Andrew,Kentucky,Ecuador,2012-10-20
+63,Cobb-Wilson,Port John,Florida,Papua New Guinea,1979-08-31
+64,"George, Hoffman and Perkins",Port Rhonda,New Hampshire,Western Sahara,2018-07-16
+65,"Buck, Velazquez and Brown",Mileschester,Oklahoma,Vietnam,2005-08-17
+66,Casey-Hill,Marshallbury,South Dakota,Central African Republic,1996-07-07
+67,Petersen-Herrera,Olsenmouth,Georgia,Iceland,2016-04-16
+68,"Crawford, Wood and Green",West Ashleychester,New Jersey,Iraq,1984-08-06
+69,Ruiz Group,Andrewsside,Texas,Finland,1973-08-24
+70,"Pacheco, Carroll and Mcintyre",East Matthewborough,Oregon,Seychelles,2009-05-10
+71,Stevens Ltd,Cookville,Massachusetts,Guam,1988-07-16
+72,Arroyo and Sons,South Catherine,Wisconsin,Kenya,2010-07-01
+73,Bautista Inc,Evansview,Vermont,Syrian Arab Republic,1998-10-08
+74,Ray-Morris,Michaelstad,Oregon,Romania,1979-06-16
+75,Perkins-Castillo,Dianashire,Utah,Uruguay,2001-02-24
+76,Woods Inc,Clarkside,Massachusetts,Peru,1991-11-07
+77,Brown Group,North Cynthia,North Dakota,New Caledonia,1978-02-13
+78,Cain-Lynch,Jasonside,Connecticut,Saint Kitts and Nevis,1997-08-27
+79,"Guzman, Rodriguez and Hudson",South Emilyport,Oregon,Senegal,1991-07-30
+80,"Santiago, Rogers and Phillips",West Catherine,Iowa,Equatorial Guinea,2023-06-14
+81,Stein and Sons,Isaacfort,Hawaii,Nicaragua,2013-11-07
+82,Morgan PLC,Harrellview,Massachusetts,United States Minor Outlying Islands,1982-10-05
+83,Tucker-Collins,Bakertown,Alaska,Lesotho,1978-03-18
+84,Fuller Inc,Samuelfurt,Oklahoma,Marshall Islands,2007-01-30
+85,Williams LLC,Fischerside,Pennsylvania,Montserrat,2021-07-24
+86,Craig-Cline,East Stevenville,Iowa,South Georgia and the South Sandwich Islands,2008-06-02
+87,"Clark, Suarez and James",South Jennifertown,New Jersey,Poland,2004-04-23
+88,"Torres, Thomas and Watson",Davidberg,Hawaii,Greece,2005-09-01
+89,Wilson-Everett,Ortiztown,Hawaii,Isle of Man,1974-03-30
+90,Ewing PLC,Lake Michaelburgh,Nebraska,Australia,2020-12-21
+91,Silva-Webster,Jonesbury,Tennessee,Timor-Leste,2008-10-14
+92,"Clements, Graham and Davis",South Michael,Louisiana,Greece,1997-10-30
+93,Martinez-Solis,Andrewsport,Tennessee,Bosnia and Herzegovina,1972-03-31
+94,Wilson-Obrien,New Deborah,Arkansas,Germany,1977-12-25
+95,Neal LLC,Wandamouth,Oklahoma,Senegal,1987-02-09
+96,"Oconnor, Perry and Leon",Warrenburgh,Delaware,Aruba,2024-07-02
+97,Salas-Martinez,Everettmouth,Pennsylvania,Ethiopia,1980-06-24
+98,Smith-Jones,Port Heatherview,Arizona,Kazakhstan,1995-09-05
+99,Roberts and Sons,Scottchester,Wisconsin,Serbia,1998-02-09
+100,"Williams, Morris and Martinez",North Andreahaven,Illinois,Saint Vincent and the Grenadines,2008-08-21
+101,"Cook, Walters and Maldonado",East Melissa,New Jersey,Mexico,2005-12-05
+102,Perkins Inc,South Randyville,Louisiana,Uruguay,2021-11-03
+103,Singleton-Ellis,Lake Jamieburgh,Montana,Cuba,2018-09-19
+104,"Cannon, Williams and Garcia",New Robertville,California,Faroe Islands,2018-11-16
+105,Ford-Campbell,West Anitaport,Alabama,Holy See (Vatican City State),2005-10-08
+106,Brown Group,Pierceton,Alabama,Tokelau,2011-05-24
+107,"Ramos, Gutierrez and Miller",New Leroyfurt,Rhode Island,Palestinian Territory,1996-07-27
+108,Giles-Carroll,East April,Wisconsin,Iran,2000-07-07
+109,"Choi, Cardenas and Evans",North Tammy,Wyoming,French Polynesia,2011-02-27
+110,Cooper and Sons,Thomasborough,Texas,Guatemala,2014-08-05
+111,Martin Ltd,Kylemouth,Tennessee,Honduras,2009-01-02
+112,Ochoa PLC,Jillmouth,Idaho,Argentina,1994-01-14
+113,"Garza, Dillon and Knight",Haydenport,New Hampshire,El Salvador,2007-01-10
+114,"Robinson, Rodriguez and Cunningham",Jimenezhaven,Oregon,Oman,1975-08-17
+115,Sanders Inc,Patrickburgh,Massachusetts,Guadeloupe,1975-08-29
+116,Sims-Walton,Jamieton,Pennsylvania,Japan,2014-11-07
+117,"Torres, Lopez and Goodwin",Davismouth,Tennessee,Cote d'Ivoire,1999-07-29
+118,"Brown, Perez and Francis",West Michelle,Colorado,Myanmar,1984-02-01
+119,Clay-Thomas,West Williamton,South Dakota,Mauritius,2013-04-11
+120,"Hanson, Rogers and Wolf",West Williamville,Colorado,Ukraine,1989-05-01
+121,Carter-Parker,Josephmouth,Colorado,Aruba,2008-03-20
+122,Simpson Group,Hartborough,Michigan,Bhutan,2008-09-25
+123,"Delgado, Garner and Mason",East Kimberly,Maryland,North Macedonia,1987-10-01
+124,"Griffith, Jenkins and Jarvis",North Robert,New York,Angola,2013-12-30
+125,Lutz Group,East Kimberlystad,Hawaii,Barbados,1982-09-29
+126,"Simmons, Sims and Conrad",Port Aimeeview,Maryland,Burundi,1971-06-06
+127,Lee PLC,Lake Amberburgh,New Hampshire,Aruba,2026-03-22
+128,Ortiz LLC,Joshuastad,Tennessee,Ukraine,2002-03-29
+129,Clark and Sons,Morganbury,Washington,Sierra Leone,2002-11-24
+130,"Medina, Sanders and Jackson",Lake Daniel,Kentucky,Taiwan,1983-03-12
+131,"Pierce, Roberts and Velez",North Maryport,Missouri,Central African Republic,2003-03-22
+132,Aguirre-Thompson,Ronaldstad,Indiana,Greenland,1980-08-03
+133,Bates-Mcguire,Lake Robintown,Idaho,France,1992-11-26
+134,"Davis, Forbes and Alvarez",New Kelli,Oregon,Wallis and Futuna,2018-04-12
+135,"Ibarra, Ruiz and Murphy",Davidchester,Nevada,Mongolia,1997-10-10
+136,"Sparks, Estrada and Gill",South Clintonmouth,Tennessee,Cuba,1977-06-11
+137,Daniels LLC,South Samanthastad,Vermont,Lesotho,1979-04-11
+138,"Kim, King and Powell",Jasonport,Indiana,Liechtenstein,1983-09-22
+139,Benjamin Inc,Bonnieside,North Dakota,Kenya,2009-01-25
+140,Ibarra Group,Ambermouth,Alabama,Portugal,2019-07-02
+141,Brown Ltd,Lake Hollystad,Colorado,Benin,1988-09-08
+142,Lee Inc,South James,Arizona,Congo,1979-08-12
+143,Young-Rivas,Port Jacob,Kentucky,Timor-Leste,2006-08-10
+144,"Pittman, Rogers and Bailey",Ericton,Nebraska,Afghanistan,2015-09-26
+145,Rodriguez Group,West Markport,Oklahoma,New Zealand,1982-06-10
+146,"Osborne, Mcbride and Mckee",Port Kevinhaven,Ohio,Martinique,1995-11-25
+147,Murphy Ltd,West Kathleenport,Virginia,Bahrain,1977-02-20
+148,Johnson Ltd,Wheelerside,Kansas,United Kingdom,2015-09-11
+149,"Roman, Bowers and Johnson",Greenhaven,New York,American Samoa,1975-08-26
+150,Baker-Johns,Sullivanmouth,Oklahoma,Jamaica,2012-04-16
+151,Krueger-Andrews,East Michael,Colorado,British Virgin Islands,2011-07-26
+152,Walter LLC,South Mark,Maryland,Eritrea,2000-05-29
+153,"Beck, Lyons and Thompson",Nelsonfurt,Tennessee,Nigeria,1993-04-15
+154,"Fleming, Hood and Rodriguez",Margaretchester,Minnesota,Netherlands Antilles,2015-07-11
+155,Moody Group,Rossport,Maryland,Pitcairn Islands,1978-08-23
+156,"Brooks, Wallace and Evans",Bethanyborough,Maine,Mauritania,2023-02-21
+157,Munoz Group,North Melissa,California,Puerto Rico,2025-09-11
+158,Adams Group,Nicoleside,Pennsylvania,British Virgin Islands,1979-10-11
+159,Hutchinson-Jones,Chenberg,Rhode Island,Central African Republic,1984-10-01
+160,Leach-Kelly,Kempburgh,Louisiana,Puerto Rico,2002-03-29
+161,Rice LLC,Shermanstad,Florida,Ethiopia,2013-07-30
+162,Perez LLC,Reginaldview,Illinois,Poland,1984-10-22
+163,Reed-Reese,Walkerfort,Colorado,Korea,2024-06-25
+164,Hart Group,Robertstad,Kentucky,Papua New Guinea,2021-03-02
+165,"Kelly, Gonzales and Adams",East Jessica,Arizona,Uganda,2000-07-02
+166,"Simpson, Hernandez and Shelton",Garrettport,Montana,Mali,1973-01-13
+167,"Mathis, Phillips and Sanchez",South Marissafurt,Nebraska,Myanmar,2024-05-10
+168,Lopez and Sons,Morrowshire,Florida,Norfolk Island,2020-03-17
+169,"Nguyen, Valentine and Morrison",Jessicafurt,Louisiana,Belize,2000-02-21
+170,Parker-Fisher,West Brandonshire,South Carolina,Syrian Arab Republic,2021-01-09
+171,Williams and Sons,Lake Jesus,Delaware,Algeria,2023-08-20
+172,"Green, Pugh and Smith",East Shannonmouth,Montana,Guatemala,1984-01-01
+173,"Kennedy, Weiss and Werner",Port Brian,North Dakota,Pitcairn Islands,2004-04-19
+174,"Delgado, Thomas and Lawrence",South Michael,Idaho,Myanmar,2025-06-26
+175,Aguilar-Brooks,Ochoaland,Oklahoma,United States of America,2006-10-25
+176,Acevedo-Simmons,North Marc,Montana,Kenya,2001-06-14
+177,"Phillips, Sanford and Rodriguez",North April,Nevada,Liberia,2024-09-19
+178,Cortez PLC,Michealmouth,Florida,Sri Lanka,1982-08-12
+179,Harvey-Clayton,Vanceshire,Oklahoma,Kenya,2024-10-05
+180,Mata-Ritter,Lake Tanyahaven,Oklahoma,Nepal,1976-05-08
+181,Harmon PLC,Jeffreymouth,New Hampshire,Brazil,2017-11-04
+182,Smith-Thomas,Stephenberg,South Carolina,Paraguay,1992-01-02
+183,Melton Inc,Bradhaven,Ohio,Yemen,1984-11-06
+184,Moses-Byrd,Lake Pamela,Kansas,Nauru,1985-12-22
+185,"Cooper, Howard and Fox",Stevenchester,Alabama,Bahamas,1994-12-15
+186,"Moore, Conway and Bond",Brittanyfort,Arkansas,Benin,1973-02-06
+187,"Lawson, Parker and Smith",North Joshua,Maine,Sri Lanka,2007-11-24
+188,Bell PLC,Tinafort,South Carolina,Korea,1999-12-21
+189,"Brooks, Torres and Hill",Manntown,Mississippi,Morocco,1982-02-27
+190,Anderson Group,Johnsonview,Alabama,Niger,1971-05-23
+191,"Proctor, Tran and Jones",East Stephanie,New Mexico,Honduras,1982-07-25
+192,"Meadows, Franco and Wilson",Schneiderside,Rhode Island,Korea,1971-08-26
+193,Herring-Wiggins,Kathytown,Georgia,Nauru,2018-12-13
+194,"Zhang, Mitchell and Gonzalez",Davidmouth,North Carolina,Cote d'Ivoire,2000-02-13
+195,"Walker, Morris and Baker",Carlaberg,Georgia,Saint Vincent and the Grenadines,2010-06-08
+196,"Ashley, Moreno and Diaz",West Brandystad,Utah,Mauritius,2023-05-04
+197,Mcdonald and Sons,Port Bryanchester,Delaware,Solomon Islands,1994-10-16
+198,Hernandez Ltd,Lake Jorge,Wyoming,Guinea,2004-09-20
+199,"Swanson, Newton and Moore",Smithberg,Oklahoma,Belgium,2007-09-17
+200,"Williams, Little and Mueller",Millerside,North Dakota,Greece,1979-07-23
