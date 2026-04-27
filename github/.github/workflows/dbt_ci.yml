@@ -1,0 +1,35 @@
+name: DBT CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dbt-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install DBT
+        run: |
+          pip install dbt-core
+          pip install dbt-snowflake
+
+      - name: Setup profiles.yml
+        run: |
+          mkdir -p ~/.dbt
+          echo "${{ secrets.DBT_PROFILES }}" > ~/.dbt/profiles.yml
+
+      - name: Run DBT Models
+        run: dbt run
+
+      - name: Run DBT Tests
+        run: dbt test
